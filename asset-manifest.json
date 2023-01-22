@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/buildingserviceswebsite/static/css/main.ddb8383b.css",
-    "main.js": "/buildingserviceswebsite/static/js/main.74b90fe3.js",
+    "main.js": "/buildingserviceswebsite/static/js/main.c4fb574c.js",
     "index.html": "/buildingserviceswebsite/index.html",
     "main.ddb8383b.css.map": "/buildingserviceswebsite/static/css/main.ddb8383b.css.map",
-    "main.74b90fe3.js.map": "/buildingserviceswebsite/static/js/main.74b90fe3.js.map"
+    "main.c4fb574c.js.map": "/buildingserviceswebsite/static/js/main.c4fb574c.js.map"
   },
   "entrypoints": [
     "static/css/main.ddb8383b.css",
-    "static/js/main.74b90fe3.js"
+    "static/js/main.c4fb574c.js"
   ]
 }
