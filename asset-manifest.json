@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/robbiesbuildingservices/static/css/main.ddb8383b.css",
+    "main.js": "/robbiesbuildingservices/static/js/main.6faacaf1.js",
+    "index.html": "/robbiesbuildingservices/index.html",
+    "main.ddb8383b.css.map": "/robbiesbuildingservices/static/css/main.ddb8383b.css.map",
+    "main.6faacaf1.js.map": "/robbiesbuildingservices/static/js/main.6faacaf1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ddb8383b.css",
+    "static/js/main.6faacaf1.js"
+  ]
+}
